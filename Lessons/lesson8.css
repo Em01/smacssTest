@@ -1,0 +1,14 @@
+/* Depth of Applicability */
+.l-container #sidebar ul li h4,
+#main-footer ul li {
+	color: blue;
+}
+
+#sidebar h4 {
+
+}
+
+/* Shalow depth */
+.widget h4 {
+	color: blue;
+}

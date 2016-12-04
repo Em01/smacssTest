@@ -1,0 +1,36 @@
+/* Layout Rules */
+.l-container {
+	overflow: hidden;
+}
+
+#main-content {
+	float: left;
+	width: 75%;
+}
+
+#sidebar {
+	float: right;
+	width: 25%;
+}
+
+.l-vertical-list {
+	list-style-type: none;
+}
+
+	.l-vertical-list > li {
+		margin-bottom: 2em;
+	}
+
+/* Fixed */
+.l-fixed .l-container {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.l-fixed #main-content {
+	width: 600px;
+}
+
+.l-fixed #sidebar {
+	width: 200px;
+}

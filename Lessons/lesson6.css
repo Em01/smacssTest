@@ -1,0 +1,8 @@
+/* State Styles */
+.tab {
+	border-bottom: 1px solid #ccc;
+}
+
+	.is-tab-active {
+		border-bottom: none;
+	}

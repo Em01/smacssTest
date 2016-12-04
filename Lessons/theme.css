@@ -1,0 +1,12 @@
+/* Theme specific styles */
+a {
+	color: red;
+}
+
+h1 {
+	color: #ccc;
+}
+
+.theme-margin {
+	margin: 1em 0;
+}

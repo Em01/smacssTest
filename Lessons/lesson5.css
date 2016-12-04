@@ -1,0 +1,17 @@
+/* Module Rules */
+.widget {
+	border-bottom: 1px solid red;
+}
+
+.widget-title {
+	text-transform: uppercase;
+}
+
+.widget-simple {
+	border-bottom: none;
+	width: 200px;
+}
+
+.widget-title-normal {
+	color: green;
+}
